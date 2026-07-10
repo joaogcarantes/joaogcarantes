@@ -2,9 +2,11 @@
 
 **Business Intelligence | Power BI | SQL | DAX | Power Query | Automação de Processos**
 
-Sou profissional de Business Intelligence e Análise de Dados, com experiência prática em ambiente corporativo no setor de seguros. Atuei na construção de dashboards, automações, indicadores operacionais e soluções analíticas voltadas à melhoria de processos, acompanhamento de performance e apoio à tomada de decisão.
+Sou profissional de Business Intelligence e Análise de Dados, com experiência prática em ambiente corporativo no setor de seguros. Atuo na construção de dashboards, automações, indicadores operacionais e soluções analíticas voltadas à melhoria de processos, acompanhamento de performance e apoio à tomada de decisão.
 
-Tenho experiência com Power BI, Power Query, DAX, SQL, PostgreSQL, SAS, Excel, Python e estruturação de bases. Meu foco está em transformar problemas operacionais em dados confiáveis, processos rastreáveis e painéis acionáveis.
+Tenho experiência com **Power BI, Power Query, DAX, SQL, PostgreSQL, SAS, Excel, Python** e estruturação de bases. Meu foco é transformar problemas operacionais em dados confiáveis, processos rastreáveis e painéis acionáveis.
+
+---
 
 ## Sobre mim
 
@@ -12,11 +14,14 @@ Tenho experiência com Power BI, Power Query, DAX, SQL, PostgreSQL, SAS, Excel, 
 - Atuação com dashboards corporativos, indicadores de produtividade, SLA, volumetria e backlog.
 - Desenvolvimento de soluções para automação de rotinas manuais e padronização de processos.
 - Vivência conectando áreas de negócio, operação e tecnologia.
-- Cursando graduação em Administração de Empresas.
+- Graduação em Administração de Empresas em andamento.
+
+---
 
 ## Principais competências
 
 ### Dados e BI
+
 - Power BI
 - Power Query
 - DAX
@@ -29,6 +34,7 @@ Tenho experiência com Power BI, Power Query, DAX, SQL, PostgreSQL, SAS, Excel, 
 - Dashboards gerenciais
 
 ### Processos e automação
+
 - Automação de rotinas manuais
 - Estruturação de regras de negócio
 - Melhoria contínua
@@ -38,57 +44,76 @@ Tenho experiência com Power BI, Power Query, DAX, SQL, PostgreSQL, SAS, Excel, 
 - Padronização de fluxos
 
 ### Programação e ferramentas
+
 - Python
 - Power Apps
-- Azure
 - SharePoint
 - GitHub
 - Microsoft Copilot
+- Azure
+
+---
 
 ## Projetos em destaque
 
-### Automação de Distribuição de Demandas Operacionais
+### Automação de Distribuição de Propostas Bloqueadas
 
-Case de portfólio inspirado em experiência real com dados fictícios.
+Case de portfólio inspirado em experiência corporativa real, reestruturado com dados fictícios e documentação anonimizada.
 
-O projeto simula uma solução para automatizar a distribuição de demandas operacionais com base em regras de negócio, status, prioridade, elegibilidade e capacidade operacional.
-
-**Principais pontos abordados:**
-
-- Substituição de rotina manual por fluxo estruturado.
-- Aplicação de regras de negócio para distribuição de demandas.
-- Redução de esforço operacional.
-- Aumento de padronização e rastreabilidade.
-- Documentação funcional da lógica utilizada.
-
-### Dashboard Operacional de SLA, Backlog e Produtividade
-
-Case de portfólio com dados fictícios, simulando um painel gerencial para acompanhamento de tickets abertos, filas, SLA, tempos médios, produtividade e volumetria operacional.
+O projeto demonstra uma solução para automatizar a distribuição diária de propostas bloqueadas, substituindo uma rotina manual baseada em planilhas, filtros, conferências e ajustes operacionais por um fluxo estruturado com **PowerShell, Power Query, tabelas auxiliares, snapshots e Power BI**.
 
 **Principais pontos abordados:**
 
-- Construção de indicadores operacionais.
-- Acompanhamento de produtividade e pendências.
-- Análise de SLA e tempo em fila.
-- Visão executiva para tomada de decisão.
-- Modelagem e tratamento de dados no Power BI.
+- Redução de uma rotina de aproximadamente **30 minutos para menos de 30 segundos**.
+- Automação de leitura e preparação de arquivos operacionais.
+- Aplicação de regras de elegibilidade.
+- Comparação entre base atual e snapshot anterior.
+- Mapeamento de responsáveis por unidade.
+- Tratamento de ausências e redistribuição ponderada.
+- Geração de fato final para consumo em Power BI.
+- Documentação técnica e funcional da solução.
 
-## Atualmente estudando e evoluindo em
+---
+
+### Relatório Gestor de Operações Power BI
+
+Case de portfólio com dados fictícios, simulando dashboards operacionais e gerenciais para acompanhamento de protocolos, filas, status, responsáveis, regionais, motivos de recusa e evolução mensal.
+
+O projeto demonstra uma solução de BI para transformar dados operacionais em uma ferramenta de acompanhamento da operação, indo além da visualização de indicadores e apoiando a gestão de tickets/protocolos em andamento.
+
+**Principais pontos abordados:**
+
+- Construção de dashboards operacionais em Power BI.
+- Acompanhamento de filas, protocolos ativos e backlog.
+- Separação entre visão histórica e visão operacional.
+- Modelagem de fatos históricas e operacionais.
+- Criação de indicadores com DAX.
+- Tratamento e enriquecimento de bases com Power Query.
+- Documentação de arquitetura, regras de negócio e modelo de dados.
+
+---
+
+## Atualmente aprofundando
 
 - Modelagem de dados para BI
 - Boas práticas em Power BI
-- SQL aplicado a análise de dados
+- SQL aplicado à análise de dados
 - Python para automação
 - Projetos de dados com foco em negócio
+- Documentação técnica para portfólio e continuidade operacional
+
+---
 
 ## Objetivo profissional
 
-Busco oportunidades como Analista de BI, Analista de Dados, Analista de Performance, Analista de Operações ou posições júnior/trainee relacionadas a dados, processos e inteligência de negócio.
+Busco oportunidades como **Analista de BI, Analista de Dados, Analista de Performance, Analista de Operações** ou posições relacionadas a dados, processos e inteligência de negócio.
 
 Meu principal diferencial é unir visão técnica e entendimento operacional para transformar problemas reais em soluções analíticas simples, confiáveis e úteis para a gestão.
 
+---
+
 ## Contato
 
-- LinkedIn: linkedin.com/in/jgcastroa/
-- E-mail: jgarantes2011@gmail.com
-- GitHub: github.com/joaogcarantes
+- LinkedIn: [linkedin.com/in/jgcastroa](https://linkedin.com/in/jgcastroa)
+- E-mail: `jgarantes2011@gmail.com`
+- GitHub: [github.com/joaogcarantes](https://github.com/joaogcarantes)
