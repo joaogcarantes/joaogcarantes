@@ -89,6 +89,6 @@ Meu principal diferencial é unir visão técnica e entendimento operacional par
 
 ## Contato
 
-- LinkedIn:linkedin.com/in/jgcastroa/
+- LinkedIn: linkedin.com/in/jgcastroa/
 - E-mail: jgarantes2011@gmail.com
 - GitHub: github.com/joaogcarantes
